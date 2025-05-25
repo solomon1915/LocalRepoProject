@@ -1,6 +1,11 @@
 git init
+
 git add hello.txt
+
 git commit -m "Add hello.txt with greeting"
+
 git branch -M main
+
 git remote add origin https://github.com/solomon1915/LocalRepoProject.git
+
 git push -u origin main
